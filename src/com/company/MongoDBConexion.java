@@ -7,7 +7,7 @@ import com.mongodb.client.MongoDatabase;
 import com.mongodb.MongoClientSettings;
 
 public class MongoDBConexion {
-
+//prueba 2
     private MongoDatabase _database;
     private String _cadenaDeConcexion ="mongodb+srv://admin:admin@cluster0.kq370.mongodb.net/admin?retryWrites=true&w=majority";
 
